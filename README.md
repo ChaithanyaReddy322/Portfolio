@@ -1,19 +1,14 @@
 # Chaithanya Reddy | Personal Portfolio | Full Stack Web Developer
 
-Welcome to **Chaithanya Reddy's Portfolio Website**, a showcase of my journey as a full stack web developer. This portfolio highlights my projects, skills, and experience in building modern, responsive, and high-performance web applications.
+Welcome to **Chaithanya Reddy's Portfolio Website**, a platform where I showcase my projects, skills, and experience as a full stack web developer. This portfolio demonstrates my ability to build modern, responsive, and scalable web applications.
 
 ---
 
-## 💻 Preview
+## 🚀 Live Preview
 
-![Portfolio Preview](public/Mockup_Preview.png)
+Visit the live portfolio here:
 
----
-
-## 🚀 Live Demo
-
-Explore the live version of the portfolio here:
-🔗 **https://your-portfolio-link.vercel.app**
+🔗 https://your-portfolio-link.vercel.app
 
 ---
 
@@ -23,29 +18,26 @@ Explore the live version of the portfolio here:
 
 ---
 
-## 📚 Tools & Tech Stack
+## 📚 Tech Stack
 
 This portfolio is built using modern web technologies:
 
-<div align="center">
-
-Astro • Preact • TypeScript • TailwindCSS • GSAP
-
-</div>
-
 * **Astro** – Fast static site generation
 * **Preact** – Lightweight React alternative
-* **TypeScript** – Type-safe JavaScript development
-* **TailwindCSS** – Utility-first styling framework
+* **TypeScript** – Type-safe JavaScript
+* **TailwindCSS** – Utility-first CSS framework
 * **GSAP** – Smooth animations and transitions
 
 ---
 
-## 🗼 Lighthouse Performance
+## ✨ Features
 
-![LightHouse Audit Preview](public/LightHouse_Audit.jpg)
-
-This portfolio is optimized for performance, accessibility, SEO, and best practices.
+* ⚡ Fast loading and optimized performance
+* 📱 Fully responsive design for all devices
+* 🎨 Clean and modern UI design
+* 🎬 Smooth animations using GSAP
+* 🔍 SEO friendly structure
+* 🧩 Modular and reusable components
 
 ---
 
@@ -53,31 +45,31 @@ This portfolio is optimized for performance, accessibility, SEO, and best practi
 
 Follow these steps to run the project locally.
 
-### 1️⃣ Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/portfolio.git
 ```
 
-### 2️⃣ Navigate into the project
+### Navigate to the project directory
 
 ```bash
 cd portfolio
 ```
 
-### 3️⃣ Install dependencies
+### Install dependencies
 
 ```bash
 npm install
 ```
 
-### 4️⃣ Run the development server
+### Run the development server
 
 ```bash
 npm run dev
 ```
 
-The project will start on:
+The application will run on:
 
 ```
 http://localhost:4321
@@ -85,21 +77,10 @@ http://localhost:4321
 
 ---
 
-## ✨ Features
-
-* ⚡ **Fast Performance** using Astro
-* 📱 **Fully Responsive Design**
-* 🎨 **Modern UI with TailwindCSS**
-* 🎬 **Smooth Animations with GSAP**
-* 🔍 **SEO Optimized**
-* 🧩 **Reusable Components using Preact**
-
----
-
-## 📂 Portfolio Sections
+## 📂 Sections in the Portfolio
 
 * Home
-* About Me
+* About
 * Skills
 * Projects
 * Contact
@@ -109,14 +90,7 @@ http://localhost:4321
 ## 📄 License
 
 This project is licensed under the **MIT License**.
-
-You are free to:
-
-* Use
-* Modify
-* Distribute
-
-However, proper credit should be given to the original inspiration.
+You are free to use, modify, and distribute this project.
 
 ---
 
@@ -125,9 +99,8 @@ However, proper credit should be given to the original inspiration.
 **Chaithanya Reddy**
 
 Full Stack Web Developer
-Passionate about building scalable web applications and modern user experiences.
 
-GitHub: https://github.com/ChaithanyaReddy322
+GitHub: https://github.com/yourusername
 Portfolio: https://your-portfolio-link.vercel.app
 
 ---
