@@ -100,7 +100,7 @@ You are free to use, modify, and distribute this project.
 
 Full Stack Web Developer
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/ChaithanyaReddy322
 Portfolio: https://your-portfolio-link.vercel.app
 
 ---
