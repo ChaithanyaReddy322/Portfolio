@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.0 (2026-07-02)
+
+* feat: add InterviewAce project with screenshot and logo ([2bcbb33](https://github.com/ChaithanyaReddy322/Portfolio/commit/2bcbb33))
+* portfolio deploy ([1128460](https://github.com/ChaithanyaReddy322/Portfolio/commit/1128460))
+* Update README.md ([4402341](https://github.com/ChaithanyaReddy322/Portfolio/commit/4402341))
+* Update README.md ([90e340c](https://github.com/ChaithanyaReddy322/Portfolio/commit/90e340c))
+* Update README.md ([c8c73a7](https://github.com/ChaithanyaReddy322/Portfolio/commit/c8c73a7))
+* updated resume ([f74799c](https://github.com/ChaithanyaReddy322/Portfolio/commit/f74799c))
+
 ## <small>1.0.3 (2025-11-16)</small>
 
 * docs: 📚  Update README to include details about nightly build and new features ([79fc2ae](https://github.com/ChiragChrg/Portfolio/commit/79fc2ae))
