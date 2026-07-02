@@ -1,8 +1,8 @@
 import { HtmlIcon, CssIcon, JsIcon, ReactIcon, NodeIcon, ViteIcon, TailwindIcon } from "../assets/Icons"
 
-import { ArmsLogo, OrbitLogo, ExamNotesAILogo } from "../assets/Logos"
+import { ArmsLogo, OrbitLogo, ExamNotesAILogo, InterviewAceLogo } from "../assets/Logos"
 
-import { LmsShot, OrbitShots, ExamNotesAIShots } from "../assets/Shots"
+import { LmsShot, OrbitShots, ExamNotesAIShots, InterviewAceShots } from "../assets/Shots"
 
 import { ARMSv3Mockup, OrbitMockup } from "../assets/Mockup"
 
@@ -119,6 +119,42 @@ const FeatureList = {
 }
 
 export const ProjectsList: ProjectsListType = [
+    {
+        Name: "InterviewAce",
+        ShortDesc: "An AI-powered mock interview platform that provides personalized feedback and real-time performance insights to help users master their next interview.",
+        Desc: "InterviewAce is a state-of-the-art platform designed to elevate interview preparation. Featuring AI-powered mock interviews, resume analysis, comprehensive analytics, leaderboards, and personalized feedback, it helps job seekers build confidence and master every interview scenario.",
+        Logo: InterviewAceLogo,
+        Shot: InterviewAceShots,
+        Mockup: OrbitMockup,
+        Theme: "#4f46e5",
+        Status: "completed",
+        Link: "https://interview-ace-hazel.vercel.app/",
+        Source: "https://interview-ace-hazel.vercel.app/",
+        Tech: [TechInfo.React, TechInfo.TailwindCSS],
+        features: [
+            {
+                title: "AI-Powered Mock Interviews",
+                description: "Conduct realistic mock interviews tailored to your target job profile and get instant feedback."
+            },
+            {
+                title: "Resume Analyzer",
+                description: "Analyze your resume against job requirements to receive personalized improvement suggestions."
+            },
+            {
+                title: "Detailed Analytics",
+                description: "Track your performance and communication skills over time with detailed visual metrics."
+            },
+            {
+                title: "Interactive Leaderboard",
+                description: "Compare scores and learn from top answers to gauge your preparation level."
+            },
+            FeatureList.Responsive,
+            FeatureList.SEO
+        ],
+        hideProject: false,
+        LogoSize: 50,
+        versions: []
+    },
     {
         Name: "Online LMS",
         ShortDesc: "A complete Learning Management platform designed to offer an immersive, modern, and engaging educational experience.",
