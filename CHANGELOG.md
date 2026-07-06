@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## <small>1.0.1 (2026-07-06)</small>
+
+* refactor: update resume PDF and mobile link ([9f32988](https://github.com/ChaithanyaReddy322/Portfolio/commit/9f32988))
+
 ## 1.0.0 (2026-07-02)
 
 * feat: add InterviewAce project with screenshot and logo ([2bcbb33](https://github.com/ChaithanyaReddy322/Portfolio/commit/2bcbb33))
